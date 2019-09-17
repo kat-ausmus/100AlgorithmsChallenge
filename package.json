@@ -1,0 +1,41 @@
+{
+    "name": "100-algorithm-challenge",
+    "version": "0.1.0",
+    "description": "100 Algorithm challenge",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kat-ausmus/100AlgorithmsChallenge.git"
+    },
+    "keywords": [
+        "algorithms"
+    ],
+    "author": "Kat Ausmus",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kat-ausmus/100AlgorithmsChallenge.git"
+    },
+    "homepage": "https://github.com/kat-ausmus/100AlgorithmsChallenge.git#README",
+    "dependencies": {
+        "ts-node": "^8.4.1",
+        "tsconfig-paths": "^3.9.0"
+    },
+    "engines": {
+        "node": "12.9.1",
+        "npm": "6.10.2"
+    },
+    "devDependencies": {
+        "jest": "^24.1.0",
+        "prettier": "^1.16.4"
+    },
+    "jest": {
+        "collectCoverage": true,
+        "testPathIgnorePatterns": [
+            "/node_modules/",
+            "/mocks/",
+            "/test/integration/"
+        ]
+    }
+}

@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92867ddf-363e-42b0-9579-19b0166c6adc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/utility/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utility/stringUtil.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addBorder/addBorder.ts" beforeDir="false" afterPath="$PROJECT_DIR$/addBorder/addBorder.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allLongestStrings/allLongestStrings.ts" beforeDir="false" afterPath="$PROJECT_DIR$/allLongestStrings/allLongestStrings.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/almostIncreasingSequence/almostIncreasingSequence.ts" beforeDir="false" afterPath="$PROJECT_DIR$/almostIncreasingSequence/almostIncreasingSequence.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alphabetSubSequence/alphabetSubSequence.ts" beforeDir="false" afterPath="$PROJECT_DIR$/alphabetSubSequence/alphabetSubSequence.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alphabeticShift/alphabeticShift.ts" beforeDir="false" afterPath="$PROJECT_DIR$/alphabeticShift/alphabeticShift.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alternatingSums/alternatingSums.ts" beforeDir="false" afterPath="$PROJECT_DIR$/alternatingSums/alternatingSums.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/areEquallyStrong/areEquallyStrong.ts" beforeDir="false" afterPath="$PROJECT_DIR$/areEquallyStrong/areEquallyStrong.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/areSimilar/areSimilar.ts" beforeDir="false" afterPath="$PROJECT_DIR$/areSimilar/areSimilar.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/absoluteValuesSumMinization/absoluteValuesSumMinization.ts" beforeDir="false" afterPath="$PROJECT_DIR$/absoluteValuesSumMinization/absoluteValuesSumMinization.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add/add.ts" beforeDir="false" afterPath="$PROJECT_DIR$/add/add.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrayChange/arrayChange.ts" beforeDir="false" afterPath="$PROJECT_DIR$/arrayChange/arrayChange.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utility/stringUtil.ts" beforeDir="false" afterPath="$PROJECT_DIR$/utility/stringUtil.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +42,14 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -70,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568670384822</updated>
       <workItem from="1568670385885" duration="1465000" />
-      <workItem from="1568733320494" duration="10218000" />
+      <workItem from="1568733320494" duration="15359000" />
     </task>
     <task id="LOCAL-00001" summary="first push to 100AlgoChallenge">
       <created>1568733542047</created>
@@ -86,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568737309306</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3rd push">
+      <created>1568750377681</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568750377681</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +119,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first push to 100AlgoChallenge" />
     <MESSAGE value="2nd push" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd push" />
+    <MESSAGE value="3rd push" />
+    <option name="LAST_COMMIT_MESSAGE" value="3rd push" />
   </component>
 </project>
