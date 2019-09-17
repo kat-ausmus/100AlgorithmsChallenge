@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92867ddf-363e-42b0-9579-19b0166c6adc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/utility/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utility/stringUtil.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/addBorder/addBorder.ts" beforeDir="false" afterPath="$PROJECT_DIR$/addBorder/addBorder.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addTwoDigits/addTwoDigits.ts" beforeDir="false" afterPath="$PROJECT_DIR$/addTwoDigits/addTwoDigits.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adjacentElementsProduct/adjacentElementsProduct.ts" beforeDir="false" afterPath="$PROJECT_DIR$/adjacentElementsProduct/adjacentElementsProduct.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allLongestStrings/allLongestStrings.ts" beforeDir="false" afterPath="$PROJECT_DIR$/allLongestStrings/allLongestStrings.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/almostIncreasingSequence/almostIncreasingSequence.ts" beforeDir="false" afterPath="$PROJECT_DIR$/almostIncreasingSequence/almostIncreasingSequence.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphabetSubSequence/alphabetSubSequence.ts" beforeDir="false" afterPath="$PROJECT_DIR$/alphabetSubSequence/alphabetSubSequence.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphabeticShift/alphabeticShift.ts" beforeDir="false" afterPath="$PROJECT_DIR$/alphabeticShift/alphabeticShift.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alternatingSums/alternatingSums.ts" beforeDir="false" afterPath="$PROJECT_DIR$/alternatingSums/alternatingSums.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/areEquallyStrong/areEquallyStrong.ts" beforeDir="false" afterPath="$PROJECT_DIR$/areEquallyStrong/areEquallyStrong.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/areSimilar/areSimilar.ts" beforeDir="false" afterPath="$PROJECT_DIR$/areSimilar/areSimilar.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568670384822</updated>
       <workItem from="1568670385885" duration="1465000" />
-      <workItem from="1568733320494" duration="3687000" />
+      <workItem from="1568733320494" duration="10218000" />
     </task>
     <task id="LOCAL-00001" summary="first push to 100AlgoChallenge">
       <created>1568733542047</created>
@@ -71,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568733542047</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2nd push">
+      <created>1568737309306</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568737309306</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first push to 100AlgoChallenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="first push to 100AlgoChallenge" />
+    <MESSAGE value="2nd push" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd push" />
   </component>
 </project>

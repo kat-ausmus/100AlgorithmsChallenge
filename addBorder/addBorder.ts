@@ -1,9 +1,4 @@
-
-const longestStrLength = strArray => {
-    return strArray.reduce( (accumulator, str)=> {
-        return  accumulator < str.length ? str.length : accumulator;
-    }, 0)
-};
+import {longestStrLength} from '../utility';
 
 const createBorder = (character, length) => {
     return character.repeat(length);
