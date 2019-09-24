@@ -1,219 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92867ddf-363e-42b0-9579-19b0166c6adc" name="Default Changelist" comment="rename from *.ts to *.js and remove all types in files">
-      <change afterPath="$PROJECT_DIR$/addTwoDigits/addTwoDigits.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adjacentElementsProduct/adjacentElementsProduct.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allLongestStrings/allLongestStrings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/almostIncreasingSequence/almostIncreasingSequence.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alphabetSubSequence/alphabetSubSequence.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alphabeticShift/alphabeticShift.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alternatingSums/alternatingSums.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/areEquallyStrong/areEquallyStrong.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/areSimilar/areSimilar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayChange/arrayChange.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayConversion/arrayConversion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayMaxConsecutiveSum/arrayMaxConsecutiveSum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayMaximalAdjacentDifference/arrayMaximalAdjacentDifference.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayPreviousLess/arrayPreviousLess.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayReplace/arrayReplace.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/avoidObstacles/avoidObstacles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bishopAndPawn/bishopAndPawn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boxBlur/boxBlur.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/candies/candies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/caseInsensitivePalimdrome/caseInsensitivePalindrome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/centuryFromYear/centuryFromYear.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/characterParity/characterParity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkPalindrome/checkPalindrome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chessBoardCellColor/chessBoardCellColor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chunkyMonkey/chunkyMonkey.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleOfNumbers/circleOfNumbers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commonCharacterCount/commonCharacterCount.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/companyBotStrategy/companyBotStrategy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compareIntegers/compareIntegers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeRanges/composeRanges.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/confirmEnding/confirmEnding.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/containsCloseNums/containsCloseNums.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/containsDuplicates/containsDuplicates.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convertCelsiusToFahrenheit/convertCelsiusToFahrenheit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convertString/convertString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crossingSum/crossingSum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/depositProfit/depositProfit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/differentSymbolsNaive/differentSymbolsNaive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/digitDegree/digitDegree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domainType/domainType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electionWinners/electionWinners.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encloseInBrackets/encloseInBrackets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/evenDigitsOnly/evenDigitsOnly.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extractEachKth/extractEachKth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extractMatrixColumn/extractMatrixColumn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factorializeANumber/factorializeANumber.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fancyRide/fancyRide.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fareEstimator/fareEstimator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fermactor/fermactor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/findClosestPair/findClosestPair.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/findEmailDomain/findEmailDomain.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstDigit/firstDigit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstDuplicate/firstDuplicate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstNotRepeatingCharacter/firstNotRepeatingCharacter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flattenArray/flattenArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/growingPlant/growingPlant.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/houseNumbersSum/houseNumbersSum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/houseOfCats/houseOfCats.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htmlEndTagByStartTag/htmlEndTagByStartTag.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/incorrectPasswordAttempts/incorrectPasswordAttempts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/incrementalBackups/incrementalBackups.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integerToStringOfWixedWidth/integerToStringOfFixedWidth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isLucky/isLucky.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isTandemRepeat/isTandemRepeat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/largestNumber/largestNumber.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/largestOfFour/largestOfFour.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lateRide/lateRide.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/launchSequenceChecker/launchSequenceChecker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/longestDigitsPrefix/longestDigitsPrefix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/makeArrayConsecutive2/makeArrayConsecutive2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrixElementsSum/matrixElementsSum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maxMultiple/maxMultiple.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mineSweeper/mineSweeper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minimalNumberOfCoins/minimalNumberOfCoins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/missingLetters/missingLetters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mostFrequentDigitSum/mostFrequentDigitSum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newNumeralSystem/newNumeralSystem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagesNumberingWithInk/pagesNumberingWithInk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palindromeRearranging/palindromeRearranging.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pigLatin/pigLatin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proCategorization/proCategorization.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/properNounCorrection/properNounCorrection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratingThreshold/ratingThreshold.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reflectString/reflectString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverseAString/reverseAString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seatsInTheater/seatsInTheater.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seekAndDestroy/seekAndDestroy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shapeArea/shapeArea.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sortByHeight/sortByHeight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sortByLength/sortByLength.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/squareDigitsSequence/squareDigitSequence.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stolenLunch/stolenLunch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stringsConstruction/stringsConstruction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sumAllPrimes/sumAllPrimes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sumOddFibonacciNums/sumOddFibonacciNums.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sumOfTwo/sumOfTwo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/switchLights/switchLights.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasksType/tasksType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uniqueDigitProducts/uniqueDigitsProducts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utility/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utility/stringUtil.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validTime/validTime.js" afterDir="false" />
+    <list default="true" id="92867ddf-363e-42b0-9579-19b0166c6adc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/absoluteValuesSumMinization/absoluteValuesSumMinization.ts" beforeDir="false" afterPath="$PROJECT_DIR$/absoluteValuesSumMinization/absoluteValuesSumMinization.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add/add.ts" beforeDir="false" afterPath="$PROJECT_DIR$/add/add.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addBorder/addBorder.ts" beforeDir="false" afterPath="$PROJECT_DIR$/addBorder/addBorder.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addTwoDigits/addTwoDigits.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/adjacentElementsProduct/adjacentElementsProduct.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allLongestStrings/allLongestStrings.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/almostIncreasingSequence/almostIncreasingSequence.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alphabetSubSequence/alphabetSubSequence.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alphabeticShift/alphabeticShift.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alternatingSums/alternatingSums.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/areEquallyStrong/areEquallyStrong.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/areSimilar/areSimilar.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrayChange/arrayChange.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrayConversion/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/arrayConversion/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrayConversion/arrayConversion.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrayMaxConsecutiveSum/arrayMaxConsecutiveSum.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrayMaximalAdjacentDifference/arrayMaximalAdjacentDifference.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrayPreviousLess/arrayPreviousLess.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrayReplace/arrayReplace.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/avoidObstacles/avoidObstacles.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bishopAndPawn/bishopAndPawn.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/boxBlur/boxBlur.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/candies/candies.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caseInsensitivePalimdrome/caseInsensitivePalindrome.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/centuryFromYear/centuryFromYear.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/characterParity/characterParity.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkPalindrome/checkPalindrome.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chessBoardCellColor/chessBoardCellColor.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chunkyMonkey/chunkyMonkey.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/circleOfNumbers/circleOfNumbers.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/commonCharacterCount/commonCharacterCount.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/companyBotStrategy/companyBotStrategy.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/compareIntegers/compareIntegers.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composeRanges/composeRanges.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/confirmEnding/confirmEnding.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/containsCloseNums/containsCloseNums.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/containsDuplicates/containsDuplicates.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/convertCelsiusToFahrenheit/convertCelsiusToFahrenheit.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/convertString/convertString.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crossingSum/crossingSum.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/depositProfit/depositProfit.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/differentSymbolsNaive/differentSymbolsNaive.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/digitDegree/digitDegree.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/domainType/domainType.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/electionWinners/electionWinners.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/encloseInBrackets/encloseInBrackets.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/evenDigitsOnly/evenDigitsOnly.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extractEachKth/extractEachKth.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extractMatrixColumn/extractMatrixColumn.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factorializeANumber/factorializeANumber.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fancyRide/fancyRide.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fareEstimator/fareEstimator.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fermactor/fermactor.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/findClosestPair/findClosestPair.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/findEmailDomain/findEmailDomain.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstDigit/firstDigit.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstDuplicate/firstDuplicate.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstNotRepeatingCharacter/firstNotRepeatingCharacter.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flattenArray/flattenArray.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/growingPlant/growingPlant.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/houseNumbersSum/houseNumbersSum.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/houseOfCats/houseOfCats.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlEndTagByStartTag/htmlEndTagByStartTag.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/incorrectPasswordAttempts/incorrectPasswordAttempts.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/incrementalBackups/incrementalBackups.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/integerToStringOfWixedWidth/integerToStringOfFixedWidth.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/isLucky/isLucky.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/isTandemRepeat/isTandemRepeat.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/largestNumber/largestNumber.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/largestOfFour/largestOfFour.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lateRide/lateRide.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/launchSequenceChecker/launchSequenceChecker.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/longestDigitsPrefix/longestDigitsPrefix.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/makeArrayConsecutive2/makeArrayConsecutive2.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixElementsSum/matrixElementsSum.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maxMultiple/maxMultiple.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mineSweeper/mineSweeper.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/minimalNumberOfCoins/minimalNumberOfCoins.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/missingLetters/missingLetters.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mostFrequentDigitSum/mostFrequentDigitSum.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newNumeralSystem/newNumeralSystem.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagesNumberingWithInk/pagesNumberingWithInk.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/palindromeRearranging/palindromeRearranging.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pigLatin/pigLatin.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proCategorization/proCategorization.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/properNounCorrection/properNounCorrection.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratingThreshold/ratingThreshold.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reflectString/reflectString.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reverseAString/reverseAString.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seatsInTheater/seatsInTheater.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seekAndDestroy/seekAndDestroy.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shapeArea/shapeArea.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sortByHeight/sortByHeight.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sortByLength/sortByLength.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/squareDigitsSequence/squareDigitSequence.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stolenLunch/stolenLunch.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stringsConstruction/stringsConstruction.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sumAllPrimes/sumAllPrimes.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sumOddFibonacciNums/sumOddFibonacciNums.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sumOfTwo/sumOfTwo.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/switchLights/switchLights.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasksType/tasksType.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uniqueDigitProducts/uniqueDigitsProducts.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utility/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utility/stringUtil.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/validTime/validTime.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrayMaxConsecutiveSum/arrayMaxConsecutiveSum.js" beforeDir="false" afterPath="$PROJECT_DIR$/arrayMaxConsecutiveSum/arrayMaxConsecutiveSum.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrayMaximalAdjacentDifference/arrayMaximalAdjacentDifference.js" beforeDir="false" afterPath="$PROJECT_DIR$/arrayMaximalAdjacentDifference/arrayMaximalAdjacentDifference.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -278,7 +69,8 @@
       <option name="presentableId" value="Default" />
       <updated>1568670384822</updated>
       <workItem from="1568670385885" duration="1465000" />
-      <workItem from="1568733320494" duration="26423000" />
+      <workItem from="1568733320494" duration="26487000" />
+      <workItem from="1569362089764" duration="2586000" />
     </task>
     <task id="LOCAL-00001" summary="first push to 100AlgoChallenge">
       <created>1568733542047</created>
@@ -308,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568757259845</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="rename from *.ts to *.js and remove all types in files">
+      <created>1568864627693</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568864627693</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
