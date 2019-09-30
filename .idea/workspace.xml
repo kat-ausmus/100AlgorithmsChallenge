@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92867ddf-363e-42b0-9579-19b0166c6adc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrayPreviousLess/arrayPreviousLess.js" beforeDir="false" afterPath="$PROJECT_DIR$/arrayPreviousLess/arrayPreviousLess.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrayReplace/arrayReplace.js" beforeDir="false" afterPath="$PROJECT_DIR$/arrayReplace/arrayReplace.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avoidObstacles/avoidObstacles.js" beforeDir="false" afterPath="$PROJECT_DIR$/avoidObstacles/avoidObstacles.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +72,8 @@
       <workItem from="1568670385885" duration="1465000" />
       <workItem from="1568733320494" duration="26487000" />
       <workItem from="1569362089764" duration="3443000" />
-      <workItem from="1569447158936" duration="1775000" />
+      <workItem from="1569447158936" duration="1899000" />
+      <workItem from="1569809270650" duration="1079000" />
     </task>
     <task id="LOCAL-00001" summary="first push to 100AlgoChallenge">
       <created>1568733542047</created>
@@ -114,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569364699719</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="array Previous">
+      <created>1569449477077</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569449477077</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +155,7 @@
     <MESSAGE value="4th push" />
     <MESSAGE value="rename from *.ts to *.js and remove all types in files" />
     <MESSAGE value="update 2 algorithms" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 2 algorithms" />
+    <MESSAGE value="array Previous" />
+    <option name="LAST_COMMIT_MESSAGE" value="array Previous" />
   </component>
 </project>
