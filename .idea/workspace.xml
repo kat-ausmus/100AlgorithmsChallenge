@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92867ddf-363e-42b0-9579-19b0166c6adc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrayReplace/arrayReplace.js" beforeDir="false" afterPath="$PROJECT_DIR$/arrayReplace/arrayReplace.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/avoidObstacles/avoidObstacles.js" beforeDir="false" afterPath="$PROJECT_DIR$/avoidObstacles/avoidObstacles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bishopAndPawn/bishopAndPawn.js" beforeDir="false" afterPath="$PROJECT_DIR$/bishopAndPawn/bishopAndPawn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boxBlur/boxBlur.js" beforeDir="false" afterPath="$PROJECT_DIR$/boxBlur/boxBlur.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +72,10 @@
       <workItem from="1568733320494" duration="26487000" />
       <workItem from="1569362089764" duration="3443000" />
       <workItem from="1569447158936" duration="1899000" />
-      <workItem from="1569809270650" duration="1079000" />
+      <workItem from="1569809270650" duration="1151000" />
+      <workItem from="1569868481935" duration="1203000" />
+      <workItem from="1569942842683" duration="568000" />
+      <workItem from="1569957749468" duration="4148000" />
     </task>
     <task id="LOCAL-00001" summary="first push to 100AlgoChallenge">
       <created>1568733542047</created>
@@ -124,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569449477077</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="array Previous">
+      <created>1569810495604</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569810495604</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
