@@ -8,6 +8,7 @@ For
 
     picture = ["abc",
            "ded"]
+
 the output should be
 
     addBorder(picture) = ["*****",
@@ -16,11 +17,13 @@ the output should be
                       "*****"]
 
 **Hints**
--   concat()
--   unshift()
--   push()
+
+- concat()
+- unshift()
+- push()
 
 **Input/Output**
+
 - **[time limit] 4000ms (js)**
 - **[input] array.string picture**
 

@@ -5,12 +5,12 @@
 
 **Example**
 
-- For n = 2, the output should be
-largestNumber(n) = 99.
+- For n = 2, the output should be largestNumber(n) = 99.
 
 **Hints**
--   concat()
--   parseInt()
+
+- concat()
+- parseInt()
 
 **Input/Output**
 

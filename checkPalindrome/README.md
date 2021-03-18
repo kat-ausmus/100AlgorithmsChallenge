@@ -6,18 +6,16 @@ Given the string, check if it is a palindrome.
 
 **Example**
 
-- For inputString = "aabaa", the output should be
-checkPalindrome(inputString) = true;
-- For inputString = "abac", the output should be
-checkPalindrome(inputString) = false;
-- For inputString = "a", the output should be
-checkPalindrome(inputString) = true.
+- For inputString = "aabaa", the output should be checkPalindrome(inputString) = true;
+- For inputString = "abac", the output should be checkPalindrome(inputString) = false;
+- For inputString = "a", the output should be checkPalindrome(inputString) = true.
 
 **Hints**
--   toLowerCase()
--   split()
--   reverse()
--   join()
+
+- toLowerCase()
+- split()
+- reverse()
+- join()
 
 **Input/Output**
 

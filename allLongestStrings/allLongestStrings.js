@@ -1,17 +1,16 @@
 import {longestStrLength} from '../utility';
 
-function allLongestStrings(inputArray){
-    if(!inputArray){
-        return undefined;
+function allLongestStrings(inputArray) {
+  if (!inputArray) {
+    return undefined;
+  }
+  const longestWordLen = longestStrLength(inputArray);
+  return inputArray.reduce((longWordArr, word) => {
+    if (word.length === longestWordLen) {
+      longWordArr.push(word);
     }
-    const longestWordLen = longestStrLength(inputArray);
-    return inputArray.reduce( (longWordArr,word) => {
-        if(word.length === longestWordLen){
-            longWordArr.push(word);
-        }
-        return longWordArr;
-    },);
-
+    return longWordArr;
+  },);
 
 }
 

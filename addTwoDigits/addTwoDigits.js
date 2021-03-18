@@ -1,9 +1,9 @@
-const addTwoDigits= (n)=> {
-    const nStr = n.toString();
-    const digitArr = nStr.split('');
-    return digitArr.reduce ( (accumulator, digit) => {
-        return  accumulator + Number(digit);
-    }, 0);
+const addTwoDigits = (n) => {
+  const nStr = n.toString();
+  const digitArr = nStr.split('');
+  return digitArr.reduce((accumulator, digit) => {
+    return accumulator + Number(digit);
+  }, 0);
 
 };
 

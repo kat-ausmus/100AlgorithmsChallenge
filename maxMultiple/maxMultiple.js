@@ -1,5 +1,5 @@
-function maxMultiple(divisor, bound)  {
+function maxMultiple(divisor, bound) {
 
 }
 
-console.log(maxMultiple(3,10));
+console.log(maxMultiple(3, 10));

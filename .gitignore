@@ -62,3 +62,8 @@ typings/
 
 .idea/
 .idea/workspace.xml
+
+.vscode/
+
+../kat_github
+../kat_github.pub

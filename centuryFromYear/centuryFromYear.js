@@ -1,5 +1,5 @@
 function centuryFromYear(year) {
- 
+
 }
 
 console.log(centuryFromYear(1905));

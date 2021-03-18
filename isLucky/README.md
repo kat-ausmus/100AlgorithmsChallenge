@@ -2,23 +2,23 @@
 
 ##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/intro/level-3/3AdBC97QNuhF6RwsQ)
 ---
-Ticket numbers usually consist of an even number of digits. A ticket number is considered lucky if the sum of the first half of the digits is equal to the sum of the second half.
+Ticket numbers usually consist of an even number of digits. A ticket number is considered lucky if
+the sum of the first half of the digits is equal to the sum of the second half.
 
 Given a ticket number n, determine if it's lucky or not.
 
 **Example**
 
-- For n = 1230, the output should be
-isLucky(n) = true;
-- For n = 239017, the output should be
-isLucky(n) = false.
+- For n = 1230, the output should be isLucky(n) = true;
+- For n = 239017, the output should be isLucky(n) = false.
 
 **Hints**
--   toString()
--   subString()
--   split()
--   reduce()
--   parseInt()
+
+- toString()
+- subString()
+- split()
+- reduce()
+- parseInt()
 
 **Input/Output**
 

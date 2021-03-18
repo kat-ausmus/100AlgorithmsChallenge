@@ -1,16 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92867ddf-363e-42b0-9579-19b0166c6adc" name="Default Changelist" comment="">
+    <list default="true" id="92867ddf-363e-42b0-9579-19b0166c6adc" name="Default Changelist" comment="reformat files">
+      <change afterPath="$PROJECT_DIR$/fizzBuzz/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fizzBuzz/fizzBuzz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/FUNDING.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/absoluteValuesSumMinization/absoluteValuesSumMinization.js" beforeDir="false" afterPath="$PROJECT_DIR$/absoluteValuesSumMinization/absoluteValuesSumMinization.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/add/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add/add.js" beforeDir="false" afterPath="$PROJECT_DIR$/add/add.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addBorder/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/addBorder/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addBorder/addBorder.js" beforeDir="false" afterPath="$PROJECT_DIR$/addBorder/addBorder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addTwoDigits/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/addTwoDigits/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addTwoDigits/addTwoDigits.js" beforeDir="false" afterPath="$PROJECT_DIR$/addTwoDigits/addTwoDigits.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allLongestStrings/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/allLongestStrings/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allLongestStrings/allLongestStrings.js" beforeDir="false" afterPath="$PROJECT_DIR$/allLongestStrings/allLongestStrings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphabeticShift/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/alphabeticShift/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alphabeticShift/alphabeticShift.js" beforeDir="false" afterPath="$PROJECT_DIR$/alphabeticShift/alphabeticShift.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alternatingSums/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/alternatingSums/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alternatingSums/alternatingSums.js" beforeDir="false" afterPath="$PROJECT_DIR$/alternatingSums/alternatingSums.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/areEquallyStrong/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/areEquallyStrong/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/areEquallyStrong/areEquallyStrong.js" beforeDir="false" afterPath="$PROJECT_DIR$/areEquallyStrong/areEquallyStrong.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/areSimilar/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/areSimilar/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/areSimilar/areSimilar.js" beforeDir="false" afterPath="$PROJECT_DIR$/areSimilar/areSimilar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrayChange/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/arrayChange/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrayChange/arrayChange.js" beforeDir="false" afterPath="$PROJECT_DIR$/arrayChange/arrayChange.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrayConversion/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/arrayConversion/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrayConversion/arrayConversion.js" beforeDir="false" afterPath="$PROJECT_DIR$/arrayConversion/arrayConversion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrayPreviousLess/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/arrayPreviousLess/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrayPreviousLess/arrayPreviousLess.js" beforeDir="false" afterPath="$PROJECT_DIR$/arrayPreviousLess/arrayPreviousLess.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrayReplace/arrayReplace.js" beforeDir="false" afterPath="$PROJECT_DIR$/arrayReplace/arrayReplace.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avoidObstacles/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/avoidObstacles/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avoidObstacles/avoidObstacles.js" beforeDir="false" afterPath="$PROJECT_DIR$/avoidObstacles/avoidObstacles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bishopAndPawn/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bishopAndPawn/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bishopAndPawn/bishopAndPawn.js" beforeDir="false" afterPath="$PROJECT_DIR$/bishopAndPawn/bishopAndPawn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boxBlur/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/boxBlur/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/boxBlur/boxBlur.js" beforeDir="false" afterPath="$PROJECT_DIR$/boxBlur/boxBlur.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/candies/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/candies/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centuryFromYear/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/centuryFromYear/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/centuryFromYear/centuryFromYear.js" beforeDir="false" afterPath="$PROJECT_DIR$/centuryFromYear/centuryFromYear.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/characterParity/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/characterParity/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkPalindrome/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/checkPalindrome/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chunkyMonkey/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/chunkyMonkey/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compareIntegers/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/compareIntegers/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composeRanges/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/composeRanges/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composeRanges/composeRanges.js" beforeDir="false" afterPath="$PROJECT_DIR$/composeRanges/composeRanges.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confirmEnding/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/confirmEnding/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/convertString/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/convertString/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crossingSum/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/crossingSum/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crossingSum/crossingSum.js" beforeDir="false" afterPath="$PROJECT_DIR$/crossingSum/crossingSum.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depositProfit/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/depositProfit/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/digitDegree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/digitDegree/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/digitDegree/digitDegree.js" beforeDir="false" afterPath="$PROJECT_DIR$/digitDegree/digitDegree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domainType/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/domainType/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domainType/domainType.js" beforeDir="false" afterPath="$PROJECT_DIR$/domainType/domainType.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/electionWinners/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/electionWinners/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evenDigitsOnly/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/evenDigitsOnly/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extractEachKth/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/extractEachKth/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fancyRide/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/fancyRide/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fareEstimator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/fareEstimator/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fareEstimator/fareEstimator.js" beforeDir="false" afterPath="$PROJECT_DIR$/fareEstimator/fareEstimator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fermactor/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/fermactor/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/findClosestPair/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/findClosestPair/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/findEmailDomain/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/findEmailDomain/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstDigit/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/firstDigit/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstDuplicate/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/firstDuplicate/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flattenArray/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/flattenArray/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/growingPlant/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/growingPlant/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/houseNumbersSum/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/houseNumbersSum/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/houseOfCats/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/houseOfCats/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/isLucky/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/isLucky/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/isTandemRepeat/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/isTandemRepeat/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/largestNumber/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/largestNumber/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/largestNumber/largestNumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/largestNumber/largestNumber.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/largestOfFour/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/largestOfFour/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/largestOfFour/largestOfFour.js" beforeDir="false" afterPath="$PROJECT_DIR$/largestOfFour/largestOfFour.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lateRide/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lateRide/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maxMultiple/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/maxMultiple/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maxMultiple/maxMultiple.js" beforeDir="false" afterPath="$PROJECT_DIR$/maxMultiple/maxMultiple.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mineSweeper/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/mineSweeper/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mineSweeper/mineSweeper.js" beforeDir="false" afterPath="$PROJECT_DIR$/mineSweeper/mineSweeper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/missingLetters/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/missingLetters/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/missingLetters/missingLetters.js" beforeDir="false" afterPath="$PROJECT_DIR$/missingLetters/missingLetters.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newNumeralSystem/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/newNumeralSystem/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pigLatin/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pigLatin/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratingThreshold/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ratingThreshold/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ratingThreshold/ratingThreshold.js" beforeDir="false" afterPath="$PROJECT_DIR$/ratingThreshold/ratingThreshold.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reflectString/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/reflectString/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reverseAString/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/reverseAString/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seatsInTheater/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/seatsInTheater/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seekAndDestroy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/seekAndDestroy/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shapeArea/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/shapeArea/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sortByHeight/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/sortByHeight/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sortByLength/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/sortByLength/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sortByLength/sortByLength.js" beforeDir="false" afterPath="$PROJECT_DIR$/sortByLength/sortByLength.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stolenLunch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/stolenLunch/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumAllPrimes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/sumAllPrimes/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumOfTwo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/sumOfTwo/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/switchLights/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/switchLights/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/switchLights/switchLights.js" beforeDir="false" afterPath="$PROJECT_DIR$/switchLights/switchLights.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasksType/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/tasksType/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utility/stringUtil.js" beforeDir="false" afterPath="$PROJECT_DIR$/utility/stringUtil.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validTime/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/validTime/README.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,12 +130,18 @@
     </option>
   </component>
   <component name="ProjectId" id="1Qw8dP75ilv1Cf1unqaUYcKNhgu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fizzBuzz" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -39,25 +152,46 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fizzBuzz" />
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager" selected="Node.js.areSimilar.js">
+    <configuration name="absoluteValuesSumMinization.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/absoluteValuesSumMinization/absoluteValuesSumMinization.js" working-dir="$PROJECT_DIR$/absoluteValuesSumMinization">
+      <method v="2" />
+    </configuration>
+    <configuration name="add.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/add/add.js" working-dir="$PROJECT_DIR$/add">
+      <method v="2" />
+    </configuration>
+    <configuration name="areSimilar.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/areSimilar/areSimilar.js" working-dir="$PROJECT_DIR$/areSimilar">
+      <method v="2" />
+    </configuration>
+    <configuration name="boxBlur.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/boxBlur/boxBlur.js" working-dir="$PROJECT_DIR$/boxBlur">
+      <method v="2" />
+    </configuration>
+    <configuration name="fizzBuzz.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fizzBuzz/fizzBuzz.js" working-dir="$PROJECT_DIR$/fizzBuzz">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="Node.js.areSimilar.js" />
+        <item itemvalue="Node.js.boxBlur.js" />
+        <item itemvalue="Node.js.fizzBuzz.js" />
+        <item itemvalue="Node.js.add.js" />
+        <item itemvalue="Node.js.absoluteValuesSumMinization.js" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -76,6 +210,8 @@
       <workItem from="1569868481935" duration="1203000" />
       <workItem from="1569942842683" duration="568000" />
       <workItem from="1569957749468" duration="4148000" />
+      <workItem from="1615936195230" duration="3814000" />
+      <workItem from="1616028615385" duration="4735000" />
     </task>
     <task id="LOCAL-00001" summary="first push to 100AlgoChallenge">
       <created>1568733542047</created>
@@ -133,29 +269,37 @@
       <option name="project" value="LOCAL" />
       <updated>1569810495604</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update packages to the latest ones">
+      <created>1615936515699</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615936515699</updated>
+    </task>
+    <task id="LOCAL-00010" summary="reformat files">
+      <created>1616032583476</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1616032583476</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/arrayConversion/arrayConversion.js" />
-      </list>
-    </option>
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first push to 100AlgoChallenge" />
@@ -165,6 +309,8 @@
     <MESSAGE value="rename from *.ts to *.js and remove all types in files" />
     <MESSAGE value="update 2 algorithms" />
     <MESSAGE value="array Previous" />
-    <option name="LAST_COMMIT_MESSAGE" value="array Previous" />
+    <MESSAGE value="Update packages to the latest ones" />
+    <MESSAGE value="reformat files" />
+    <option name="LAST_COMMIT_MESSAGE" value="reformat files" />
   </component>
 </project>
